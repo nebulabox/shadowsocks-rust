@@ -1,4 +1,4 @@
-# shadowsocks
+# shadowsocks with Brutal support
 
 [![License](https://img.shields.io/github/license/zonyitoo/shadowsocks-rust.svg)](https://github.com/zonyitoo/shadowsocks-rust)
 [![Build & Test](https://github.com/shadowsocks/shadowsocks-rust/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/shadowsocks/shadowsocks-rust/actions/workflows/build-and-test.yml)
@@ -14,7 +14,8 @@
 [![snap shadowsocks-rust](https://snapcraft.io/shadowsocks-rust/badge.svg)](https://snapcraft.io/shadowsocks-rust)
 [![homebrew shadowsocks-rust](https://img.shields.io/homebrew/v/shadowsocks-rust)](https://formulae.brew.sh/formula/shadowsocks-rust#default)
 
-This is a port of [shadowsocks](https://github.com/shadowsocks/shadowsocks).
+This is a port of [shadowsocks](https://github.com/shadowsocks/shadowsocks) with [tcp-brutal](https://github.com/apernet/tcp-brutal) support.
+
 
 shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 
