@@ -1,5 +1,9 @@
 name: Build MSRV
 
+on:
+  push:
+    tags:
+      - disabled
 #on:
 #  push:
 #    branches: [master]

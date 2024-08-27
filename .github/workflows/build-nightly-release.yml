@@ -1,4 +1,9 @@
 name: Build Nightly Releases
+
+on:
+  push:
+    tags:
+      - disabled
 #on:
 #  push:
 #    branches: [master]

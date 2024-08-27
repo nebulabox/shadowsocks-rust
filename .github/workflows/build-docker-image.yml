@@ -1,4 +1,9 @@
 name: Build Docker Images
+
+on:
+  push:
+    tags:
+      - disabled
 #on:
 #  push:
 #    tags:

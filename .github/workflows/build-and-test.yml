@@ -1,5 +1,10 @@
 name: Build & Test
 
+on:
+  push:
+    tags:
+      - disabled
+
 #on:
 #  push:
 #    branches: [master]
